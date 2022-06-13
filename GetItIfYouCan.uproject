@@ -42,7 +42,7 @@
 		},
 		{
 			"Name": "ST_ExportPNG",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/230db584ce5749f284945d3286c745fa"
 		},
 		{
@@ -76,7 +76,6 @@
 		"PS4",
 		"PS5",
 		"Windows",
-		"WindowsNoEditor",
 		"Switch",
 		"XboxOne",
 		"XSX"
